@@ -1,0 +1,13 @@
+[app]
+name = "hangman"
+debug = true
+port = 7100
+prefix = "/v1"
+
+[log]
+log-to-file = false
+path = "hangman.log"
+
+[db]
+name = "hangman-db"
+max-life-minutes = 1

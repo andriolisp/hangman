@@ -1,0 +1,13 @@
+ul.ChosenWords {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li.ChosenWords {
+  float: left;
+  margin: 10px;
+  padding-top: 20px;
+  font-weight: bold;
+}

@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+div.LetterChoice {
+  float: left;
+}
+
+h3.Message {
+  color: red;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+h1 {
+  background-color: #282c34;
+  color: white;
+}
+
+input {
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  background-color: white;
+  color: #282c34;
+}
+
+button {
+  margin-top: 15px;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  background-color: white;
+  color: #282c34;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,16 @@
+div.Message {
+  float: left;
+  margin: 10px;
+}
+
+input.Letter {
+  width: 50px;
+}
+
+button.Check {
+  margin-top: 0px;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  background-color: white;
+  color: #282c34;
+}

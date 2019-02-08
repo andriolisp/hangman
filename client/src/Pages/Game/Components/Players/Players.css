@@ -1,0 +1,28 @@
+div.Players {
+  float: left;
+  margin: 15px;
+  width: 200px;
+}
+
+div.LeftSize {
+  float: left;
+  width: 50%;
+  text-align: left;
+  font-weight: bold;
+  font-size: medium;
+}
+
+div.RightSize {
+  float: left;
+  width: 50%;
+  text-align: left;
+  font-size: medium;
+}
+
+div.Title {
+  float: left;
+  font-weight: bolder;
+  width: 100%;
+  font-size: larger;
+  text-align: left;
+}
